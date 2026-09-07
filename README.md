@@ -140,7 +140,7 @@ I'm an **AI Engineer** with **2 years of experience** building autonomous agent 
 
 **AI Engineer · IBR Infotech** — Indore, India · *Nov 2024 – July 2026*
 
-- Architected **Pushable AI** — multi-tenant agent platform with per-user Docker isolation, LangGraph orchestration, browser automation, 250+ Composio integrations
+- Architected **Pushable AI** — multi-tenant agent platform with Software-enforced tenancy (single shared deployment, every table workspaceId-scoped), LangGraph orchestration, browser automation, 250+ Composio integrations
 - Solo-built **VAPI-alternative voice platform** — OpenAI Realtime + Twilio, sub-1s latency, speech interruption handling, dynamic tool calling
 - Built and deployed **100+ production voice agents** across VAPI, Retell AI, Bland AI, and Synthflow
 - Built **Asana Intelligence Agent** (LangGraph + pgvector) — dynamically queries Asana APIs for team productivity Q&A across 30 employees
