@@ -153,21 +153,8 @@ I'm an **AI Engineer** with **2 years of experience** building autonomous agent 
 
 <div align="center">
 
-<a href="https://github.com/AbhishekSharma55">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AbhishekSharma55&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekSharma55&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
-
-<br />
-
 <a href="https://git.io/streak-stats">
 <img src="https://streak-stats.demolab.com?user=AbhishekSharma55&theme=tokyonight&hide_border=true" />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=AbhishekSharma55&theme=tokyonight&no-frame=true&row=1&column=7" />
 </a>
 
 </div>
