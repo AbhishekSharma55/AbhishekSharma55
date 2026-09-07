@@ -28,7 +28,7 @@
 
 ## About Me
 
-I'm an **AI Engineer at IBR Infotech** with **2 years of experience** building autonomous agent systems, voice AI infrastructure, and multi-tenant LLM platforms — solo, end-to-end, across AI, backend, and infra.
+I'm an **AI Engineer** with **2 years of experience** building autonomous agent systems, voice AI infrastructure, and multi-tenant LLM platforms — solo, end-to-end, across AI, backend, and infra.
 
 - Architected **[Pushable AI](https://github.com/AbhishekSharma55/pushable_3_0)** — a multi-tenant LangGraph platform with per-user Docker isolation and **250+ Composio integrations**
 - Solo-built a **VAPI-alternative voice platform** on OpenAI Realtime + Twilio with **sub-1s latency**
