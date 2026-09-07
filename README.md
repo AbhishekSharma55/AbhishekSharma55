@@ -30,11 +30,11 @@
 
 I'm an **AI Engineer** with **2 years of experience** building autonomous agent systems, voice AI infrastructure, and multi-tenant LLM platforms — solo, end-to-end, across AI, backend, and infra.
 
-- Architected **[Pushable AI](https://github.com/AbhishekSharma55/pushable_3_0)** — a multi-tenant LangGraph platform with per-user Docker isolation and **250+ Composio integrations**
+- Architected **[Pushable AI](https://github.com/AbhishekSharma55/pushable_3_0)** — Software-enforced tenancy (single shared deployment, every table workspaceId-scoped) and 1,200+ tools via Composio.
 - Solo-built a **VAPI-alternative voice platform** on OpenAI Realtime + Twilio with **sub-1s latency**
 - Deployed **100+ production voice calling agents** across VAPI, Retell AI, Bland AI, and Synthflow
 - Built an **Asana Intelligence Agent** (LangGraph + pgvector) that answers natural-language questions about team productivity across 30 employees
-- Final-year **B.Tech Information Technology** student at Malwa Institute of Science & Technology, Indore (graduating Aug 2026)
+- **B.Tech Information Technology** student at Malwa Institute of Science & Technology, Indore — completed 2026
 - Open to **AI Engineer roles** — remote / hybrid / relocation
 
 ---
@@ -104,7 +104,7 @@ I'm an **AI Engineer** with **2 years of experience** building autonomous agent 
     <td width="50%" valign="top">
     <h3>🤖 Pushable AI</h3>
     <p><strong>Multi-tenant LangGraph agent platform — real, running production system.</strong></p>
-    <p>Per-user Docker isolation, ~2,500-line LangGraph state machine, dual-layer memory (pgvector + SQLite), browser automation, and 250+ Composio integrations. 8-service Docker stack with ~50 PostgreSQL tables.</p>
+    <p>Software-enforced tenancy (single shared deployment, every table workspaceId-scoped) and 1,200+ tools via Composio.</p>
     <p><sub><strong>Stack:</strong> LangGraph · Fastify · Docker · pgvector · Composio · Next.js · BullMQ · Redis</sub></p>
     <a href="https://github.com/AbhishekSharma55/pushable_3_0">Code →</a>
     </td>
@@ -138,7 +138,7 @@ I'm an **AI Engineer** with **2 years of experience** building autonomous agent 
 
 ## Experience
 
-**AI Engineer · IBR Infotech** — Indore, India · *Nov 2024 – Present*
+**AI Engineer · IBR Infotech** — Indore, India · *Nov 2024 – July 2026*
 
 - Architected **Pushable AI** — multi-tenant agent platform with per-user Docker isolation, LangGraph orchestration, browser automation, 250+ Composio integrations
 - Solo-built **VAPI-alternative voice platform** — OpenAI Realtime + Twilio, sub-1s latency, speech interruption handling, dynamic tool calling
